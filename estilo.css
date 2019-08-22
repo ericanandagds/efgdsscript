@@ -7,13 +7,21 @@ form{
   
 }
 .cardapio{
-    margin-top: 15px;
-    margin-left: 10px;
-    margin-right: 10px;
+  width: 70%;
+  height: 100%;
+  padding: 10px;
+  position: absolute;
+  left: 15%;
+
 
 
 }
 .navbarnavbar-lightbg-light{
-    max-width: 80%;
+    max-width: 60%;
 
+
+}
+
+body{
+    background-image: url(imagens/pizza-background.jpg);
 }
