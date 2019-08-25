@@ -17,3 +17,11 @@ form{
 body{
     background-image: url(imagens/pizza-background.jpg);
 }
+.col-sm1{
+  float: left;
+  margin: 5px 30px 10px 31%;
+}
+.col-sm{
+  float: left;
+  margin: 5px 10px 10px 30%;
+}
