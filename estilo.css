@@ -3,10 +3,7 @@ form{
   width: 70%;
   height: 100%;
   padding: 10px;  
-
-
 }
-
 .navbarnavbar-lightbg-light{
     width: 70%;
     height: 30%;
@@ -24,4 +21,23 @@ body{
 .col-sm{
   float: left;
   margin: 5px 10px 10px 30%;
+}
+.btnbtn-primarybtn-lgactive{
+ align-content: center;
+}
+.content{
+  margin-left: 35%;
+  margin-right: 25%;
+  margin-top: 20%;
+  color: azure;
+  
+}
+.form-row{
+  background-color: seashell;
+}
+.form-groupcol-md-6{
+  background-color: seashell;
+}
+.form-group{
+  background-color: seashell;
 }
