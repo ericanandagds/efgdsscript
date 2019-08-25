@@ -40,12 +40,31 @@ body{
 .cadastro{
   background-color: seashell;
   opacity: initial;
+  width: 60%;
+  height: 70%;
+  margin-left: 20%;
+  /*padding-left: 90px;*/
+  padding-left: 10%;
+  padding-right: 30px;
+  margin-right: 15%;
   margin-bottom: 60%;
-  padding-bottom: 90%;
+  
   
 }
 .btnbtn-primary{
  width: 30%;
  height: 20%;
   
+}
+.contato{
+  background-color: rgb(250, 249, 248);
+  opacity: initial;
+  width: 60%;
+  height: 70%;
+  margin-left: 20%;
+  /*padding-left: 90px;*/
+  padding-left: 10%;
+  padding-right: 30px;
+  margin-right: 15%;
+  margin-bottom: 60%;
 }
