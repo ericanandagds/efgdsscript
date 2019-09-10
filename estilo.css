@@ -38,16 +38,16 @@ body{
   
 }
 .cadastro{
-  background-color: seashell;
+  background-color: white  ;
   opacity: initial;
   width: 60%;
-  height: 70%;
+  height: 50%;
   margin-left: 20%;
   /*padding-left: 90px;*/
   padding-left: 10%;
-  padding-right: 30px;
+  padding-right: 10px;
   margin-right: 15%;
-  margin-bottom: 60%;
+  margin-bottom: 20%;
   
   
 }
@@ -57,14 +57,14 @@ body{
   
 }
 .contato{
-  background-color: rgb(250, 249, 248);
+  background-color: white;
   opacity: initial;
-  width: 60%;
-  height: 70%;
-  margin-left: 20%;
+  width: 40%;
+  height: 50%;
+  margin-left: 30%;
   /*padding-left: 90px;*/
-  padding-left: 10%;
+ /* padding-left: 10%;*/
   padding-right: 30px;
-  margin-right: 15%;
+  margin-right: 25%;
   margin-bottom: 60%;
 }
