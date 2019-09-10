@@ -19,7 +19,7 @@ section{
 body{
     background-image: url(imagens/pizza-background.jpg);
 }
-.col-sm1{
+/*.col-sm1{
   float: left;
   margin: 5px 30px 10px 31%;
 }
@@ -36,7 +36,7 @@ body{
   margin-top: 20%;
   color: azure;
   
-}
+}*/
 .cadastro{
   background-color: white  ;
   opacity: initial;
